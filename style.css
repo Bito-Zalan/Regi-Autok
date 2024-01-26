@@ -1,0 +1,24 @@
+main{
+    background-color: white;
+}
+header{
+
+}
+h1{
+    color:rgb(17, 73, 17)
+}
+.nav{
+    background-color: rgb(17, 73, 17);
+    height: 70px;
+}
+.nav-item{
+    list-style: none;
+    margin-top: 15px;
+}
+.nav-link{
+    text-decoration: none;
+    color: rgb(128, 229, 128);
+}
+.row{
+    margin: auto;
+}
